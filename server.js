@@ -1,13 +1,7 @@
-Gmail	Manacet Adoua <adouamanacet25@gmail.com>
-(no subject)
-Manacet Adoua <adouamanacet25@gmail.com>	Tue, Oct 6, 2026 at 3:24 AM
-To: Adoua Manacet <adouamanacet25@gmail.com>
-
-
 
 // ============================================================
 
-//  KIRA BAN GHOST BOT  -  by Mr Kira Tech
+//  KIRA BAN BOT  -  by Mr Kira Tech
 
 //  Telegram (Telegraf) + WhatsApp (Baileys) pairing code
 
@@ -993,4 +987,3 @@ if (process.env.RENDER_EXTERNAL_URL) {
 process.once('SIGINT', () => bot.stop('SIGINT'));
 
 process.once('SIGTERM', () => bot.stop('SIGTERM'));
-
