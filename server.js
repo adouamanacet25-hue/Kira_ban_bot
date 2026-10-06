@@ -1,6 +1,4 @@
-//
-============================================================
-
+//============================================================
 //  KIRA BAN GHOST BOT  -  by Mr Kira Tech
 
 //  Telegram (Telegraf) + WhatsApp (Baileys) pairing code
