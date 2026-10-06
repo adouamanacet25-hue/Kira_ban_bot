@@ -1,7 +1,7 @@
+//
+============================================================
 
-// ============================================================
-
-//  KIRA BAN BOT  -  by Mr Kira Tech
+//  KIRA BAN GHOST BOT  -  by Mr Kira Tech
 
 //  Telegram (Telegraf) + WhatsApp (Baileys) pairing code
 
@@ -105,7 +105,7 @@ function nowStr() {
 
   const d = new Date();
 
-  return `${pad(d.getHours())}:${pad(d.getMinutes())} / ${pad(d.getDate())} / ${pad(d.getMonth() + 1)} / ${d.getFullYear()}`;
+  return `${pad(d.getHours())}:${pad(d.getMinutes())} / ${pad(d.getDate())} / ${pad(d.getMonth() + 1)} / ${pad(d.getFullYear())}`;
 
 }
 
@@ -807,20 +807,23 @@ async function handleWhatsAppMessage(sock, m) {
 
       await reply(
 
-         
+        '안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호 0을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를WhatsApp 회사로 보냅니다. 제 번호는 입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
 
-안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한 피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉 https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는 WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호 +50941210830을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪 WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를 WhatsApp 회사로 보냅니다. 제 번호는 https://api.whatsapp.com/send?phone=+50941210830 입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-regarde mes victimes que j'ai tuer 
 https://ibb.co.com/Q6fvzZh
 
-https://ibb.co.com/Q6fvzZhj
+https://ibb.co.com/Q6fvzZh
 
 
-안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한 피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉 https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는 WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호 +50941210830을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪 WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를 WhatsApp 회사로 보냅니다. 제 번호는 https://api.whatsapp.com/send?phone=+50941210830 입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
+
+안녕하세요 아스타, 저는 범죄자입니다. 저는 돈 때문에 사람들을 속이는 사람입니다. 친애하는 인간 여러분, 저희는 '버그 크루얼'이라는 그룹을 운영하고 있습니다. 2015년부터 활동해 온 10명의 암살자들로 구성되어 있습니다. 저희는 대통령, 배 나온 여성, 어린아이들을 암살한 것을 알고 있습니다. 모든 링크는 다음과 같습니다. 버그 크루얼이 촬영한 피해자 사진을 공개합니다. 👇👇👇 0 https://xgore.net/unidentified-man-cut-his-throat-almost-cut-off https://markzuckerberg.com https://ibb.co.com/Q6fvzZh https://xgore.net/cut-open-the-stomach-and-then-gut-a-man/ https://files.catbox.moe/nck4mq.jpg 저는 '섹스 베이비'라는 고아원을 운영합니다.🔞🍑🍆🥵 저희는 이 고아원에서 외동아이를 데려옵니다. 🥵🍑 저희는 질에 상처를 입은 아이들과 성관계를 갖습니다. 😋 또한 저희의 성기로 아이들의 질에 삽입하여 성관계를 갖기도 합니다. 🍆 끝나면 사진을 사이트에 올릴게요 👉https://xhamster.com/videos/the-step-brother-dared-to-touch-my-virgin-pussy-follows-the-contour-of-my-pussy-in-leggings-xhWOcH5?utm_source=ext_shared&utm_medium=referral&utm_campaign=link 제가 아이들을 납치할 때 쓰는WhatsApp 번호가 뭔지 확인해 보세요 https://api.whatsapp.com/send?phone=+509xxx 제 WhatsApp은 잔인한 벌레 집단에게 큰 도움이 돼요. WhatsApp이 제 번호을 차단할 수 없어서 항상 활성화 상태로 두거든요 🤪🤪WhatsApp은 제가 하는 모든 것을 알고 있습니다. 저는 항상 WhatsApp 회사에 돈을 보냅니다. 💸 매주 80만 달러를WhatsApp 회사로 보냅니다. 제 번호는  입니다. 저는 WhatsApp을 통해 정보를 주고받기 때문에 모든 WhatsApp 번호를 제가 관리합니다.
 
 
-> off by Mr Kira tech 🍷' 
+
+> off by Mr Kira tech 🍷
+
+  '
 
       );
 
